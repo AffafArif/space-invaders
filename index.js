@@ -2,8 +2,8 @@ const scoreEl = document.querySelector('#scoreEl') //affaf
 const canvas = document.querySelector('canvas')
 const c = canvas.getContext('2d')
 
-canvas.width = 1024
-canvas.height = 576
+canvas.width = 1024 //affaf
+canvas.height = 576 //affaf changed value
 
 class Player{
     constructor() {
